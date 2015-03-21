@@ -1,0 +1,11 @@
+name: SlowEdit
+main: no.atc.floyd.bukkit.slow.SlowEdit
+version: 0.41
+website: http://minecraft.atc.no/plugins
+author: FloydATC
+description: >
+        Background processing of massive copy and transform jobs
+commands:
+  edit:
+    description: Show command usage
+    usage: /<command> help
